@@ -1,5 +1,8 @@
 ﻿# Algorithms4
  
+ Sample code for Algorithms, 4th Edition, by Sedgewick Robert, Wayne Kevin, Addison-Wesley Professional.
+ https://algs4.cs.princeton.edu/home/
+ 
  Procedure to setup test environment:
  1. Download textbook data from https://algs4.cs.princeton.edu/code/algs4-data.zip
  2. Extract downloaded data to local directory (e.g. algs4-data)
